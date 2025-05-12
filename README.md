@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Robotics and Digital Systems Engineer</p>
+<p align="left">Robotics and Digital Systems Engineer with interest in embeded systems. I've worked with ROS2 Humble and normaly use python for coding.</p>
 
-###
+## SKILLS
 
 <img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif"  />
 
