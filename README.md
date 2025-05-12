@@ -57,6 +57,7 @@
 ## Projects
 ### [VHDL-Dino](https://github.com/LeoMadridM/VHDL-Dino)
 This project is the famous Chrome DINO game implemented on a FPGA and coded in VHDL. It requieres an VGA Interface.
+### 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoMadridM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
