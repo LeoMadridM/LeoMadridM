@@ -1,4 +1,4 @@
-<h2 align="center">Leonardo Madrid Morales</h2>
+<h1 align="center">Leonardo Madrid Morales</h1>
 
 ###
 
