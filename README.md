@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">Robotics and Digital SYstems Engineer</p>
+
+###
+
 <img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif"  />
 
 ###
@@ -63,6 +67,3 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
